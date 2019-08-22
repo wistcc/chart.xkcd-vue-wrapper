@@ -1,8 +1,8 @@
 {
-  "name": "chart.xkcd-vue",
-  "version": "0.1.0",
+  "name": "chart.xkcd-vue-wrapper",
+  "version": "0.1.1",
   "private": false,
-  "main": "./dist/chart.xkcd-vue.common.js",
+  "main": "./dist/chart.xkcd-vue-wrapper.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib ./lib/index.js",

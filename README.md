@@ -1,4 +1,4 @@
-# chart.xkcd-vue
+# chart.xkcd-vue-wrapper
 ## Vue wrapper for [chart.xkcd](https://github.com/timqian/chart.xkcd)
 
 You can find the documentation for the chats configurations in the official library [page](https://timqian.com/chart.xkcd/).
@@ -6,7 +6,7 @@ You can find the documentation for the chats configurations in the official libr
 ## Quick Start
 
 ```
-yarn add chart.xkcd-vue
+yarn add chart.xkcd-vue-wrapper
 ```
 
 ```js
@@ -19,7 +19,7 @@ yarn add chart.xkcd-vue
 </template>
 
 <script>
-import { ChartLine,  ChartBar, ChartPie } from 'chart.xkcd-vue';
+import { ChartLine,  ChartBar, ChartPie } from 'chart.xkcd-vue-wrapper';
 
 export default {
   name: 'App',
