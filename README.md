@@ -1,7 +1,7 @@
 # chart.xkcd-vue-wrapper
 ## Vue wrapper for [chart.xkcd](https://github.com/timqian/chart.xkcd)
 
-You can find the documentation for the chats configurations in the official library [page](https://timqian.com/chart.xkcd/).
+You can find the documentation for the charts configurations in the official library [page](https://timqian.com/chart.xkcd/).
 
 ## Quick Start
 
