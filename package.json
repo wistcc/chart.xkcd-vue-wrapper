@@ -14,6 +14,9 @@
     "*.json",
     "*.js"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wistcc"
+  },
   "dependencies": {
     "chart.xkcd": "^1.0.5"
   },
